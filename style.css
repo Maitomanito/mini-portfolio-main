@@ -87,11 +87,11 @@ article,
 }
 
 .hero-pic {
-  width: 8rem;
-  height: 8rem;
+  width: 16rem;
+  height:16rem;
   border-radius: 50%;
   overflow: hidden;
-  position: relative;
+  position:relative ;
 }
 
 .inner-circle {
